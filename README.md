@@ -1,13 +1,9 @@
 gh repo
 
-https://github.com/perlinleo/bmstu-mmo-2023/lr1
-
-ЛР
-
-1. История о данных
-
-!()
+https://github.com/perlinleo/bmstu-mmo-2023/
 
 
-2. 
-3. 
+# LR1 
+![lr1](lr1.png)
+
+# LR2
